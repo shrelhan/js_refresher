@@ -22,3 +22,13 @@
 // 1: true. 0: false
 // "": false
 // "hi": true
+
+// ********Operations*********
+
+let value = 3;
+let negValue = -value;
+console.log(negValue);
+
+let str1 = "hello";
+let str2 = " sr";
+let str3 = str1 + str2;
