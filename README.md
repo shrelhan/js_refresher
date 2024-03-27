@@ -16,3 +16,10 @@ There are 3 ways to declare variables
     Syntax: let user_name = "SR";
 3. using *const* keyword - cannot be reassigned, block scoped, mostly used
     Syntax: const user_name = "SR";
+
+---
+
+## Everything Data types
+### There are two types of data types in JS:
+1. Primitive, call by value: String, Number, Boolean, null, undefined, Symbol, BigInt.
+2. Non-Primitive, call by reference: Function, Array, Object.
