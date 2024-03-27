@@ -35,5 +35,5 @@ A JS resfresher to all concepts.
 
 - Function, to define block of instructions inside a function to make it reusable,
 Syntax: *function functionName() {};*
-- Array, to store list or multiple values of similar types, Syntax: let *arrayOne* = *[]*;
+- Array, to store list or multiple values of similar types or different types, Syntax: let *arrayOne* = *[]*;
 - Objects, to store data in key:value pairs, Syntax: let *userOne* = *{name: 'SR'}*;
