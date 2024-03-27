@@ -22,4 +22,15 @@ A JS resfresher to all concepts.
 ## Everything Data types
 ### There are two types of data types in JS:
 1. Primitive, call by value: String, Number, Boolean, null, undefined, Symbol, BigInt.
+- String, to store and manipulate string types, Syntax: let *userName* = *"SR"*;
+- Number, to store and manipulate integer types, Syntax: let *userAge* = *18*;
+- Boolean, to store truthy and falsy values, Syntax: let *isUserRegistered* = *true or false*;
+- null, to define variable as empty, Syntax: let *userEligibility* = *null*;
+- undefined, to set variable type to undefined, Syntax: let *userMobNo* = *undefined*;
+- BigInt, to store large number values, Syntax: let *userUniqueId* = *12615362662277*n;
+- Symbol, to store unique values, Syntax: const *userId* = *Symbol('123')*;
 2. Non-Primitive, call by reference: Function, Array, Object.
+- Function, to define block of instructions inside a function to make it reusable,
+Syntax: *function functionName() {};*
+- Array, to store list or multiple values of similar types, Syntax: let *arrayOne* = *[]*;
+- Objects, to store data in key:value pairs, Syntax: let *userOne* = *{name: 'SR'}*;
